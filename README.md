@@ -7,3 +7,7 @@ _Header design for an airline company_
 _Header design for an social media_
 
 ![output image](header-2/output/header-2.gif)
+
+_Heade-3 Responsive Navbar_
+
+![output image](header-3/output/header-3.gif)
